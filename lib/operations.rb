@@ -11,10 +11,6 @@ def unsafe?(speed)
     return false
   end
      
-       
-  
-  
-
 end
 
 
